@@ -1,0 +1,40 @@
+body{
+  width: 100%;
+}
+
+.tamanho{
+  width: 100%;
+}
+
+.primeiraDiv {
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns:  50% 50%;
+  padding: 30px;
+  background-color: aqua;
+  margin: auto;
+}
+
+.segundaDiv{
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns:  50% 50%;
+  padding: 30px;
+  padding-top: 50px;
+  background-color: rgb(168, 239, 239);
+  margin: auto;
+}
+
+.terceiraDiv{
+  max-width: 1200px;
+  padding: 30px;
+  padding-top: 50px;
+  background-color: rgb(199, 211, 211);
+  margin: auto;
+}
+.terceiraDiv h1{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+

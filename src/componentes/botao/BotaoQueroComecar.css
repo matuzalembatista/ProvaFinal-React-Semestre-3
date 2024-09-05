@@ -1,0 +1,17 @@
+.BotaoQueroComecar{
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(15, 15, 148);
+    color: aliceblue;
+    font-weight: 700;
+    border: none;
+}
+
+.BotaoQueroComecar:hover{
+    background-color:aliceblue;
+    color:   rgb(15, 15, 148);
+    cursor: pointer;
+}
